@@ -19,7 +19,7 @@ function Square(props){
 		</button>
 	);
 }
-
+//To show UI
 class Board extends React.Component {
 /* constructor(props){
   	super(props);
